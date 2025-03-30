@@ -11,7 +11,10 @@ This project implements a deep learning model using TensorFlow and Keras to pred
 
 ## Installation
 To run this project, install the required dependencies:
-sklearn, tensorflow, keras, streamlit
+- Scikit-Learn
+- TensorFlow
+- Keras
+- Streamlit
 
 ## Usage
 1. Clone the repository:
@@ -43,7 +46,7 @@ The model is trained using the following steps:
 - Deploy the model as a web API.
 
 ## License
-The license goes to https://github.com/krishnaik06 who taught me the topic.
+The credit goes to https://github.com/krishnaik06 who taught me the Deep Learning and acted as a source for the dataset I have used.
 
 ---
 ### Author
